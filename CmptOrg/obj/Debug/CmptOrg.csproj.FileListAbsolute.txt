@@ -1,0 +1,13 @@
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\CmptOrg\CmptOrg\bin\Debug\CmptOrg.exe
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\CmptOrg\CmptOrg\bin\Debug\CmptOrg.pdb
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\CmptOrg\CmptOrg\obj\Debug\CmptOrg.csprojResolveAssemblyReference.cache
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\CmptOrg\CmptOrg\obj\Debug\CmptOrg.Form1.resources
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\CmptOrg\CmptOrg\obj\Debug\CmptOrg.Properties.Resources.resources
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\CmptOrg\CmptOrg\obj\Debug\CmptOrg.csproj.GenerateResource.Cache
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\CmptOrg\CmptOrg\obj\Debug\CmptOrg.csproj.CoreCompileInputs.cache
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\CmptOrg\CmptOrg\obj\Debug\CmptOrg.exe
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\CmptOrg\CmptOrg\obj\Debug\CmptOrg.pdb
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\CmptOrg\CmptOrg\obj\Debug\CmptOrg.Experiment1.resources
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\CmptOrg\CmptOrg\obj\Debug\CmptOrg.Experiment2.resources
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\CmptOrg\CmptOrg\obj\Debug\CmptOrg.Experiment4.resources
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\CmptOrg\CmptOrg\obj\Debug\CmptOrg.Display.resources
